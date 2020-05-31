@@ -5,5 +5,5 @@ Segunda Aula do Curso de Imersão CSS/Curso Imersão Hipsters css/alura/caelum.
 ##DIA 2
 ##Sites responsivos
 ##CSS reset, media queries e position.
-> Status do Projeto: Em desenvolvimento warning
-## Deploy da Aplicação com Netlify: 
+> Status do Projeto: Em desenvolvimento :warning:
+## Deploy da Aplicação com Netlify: :dash:
